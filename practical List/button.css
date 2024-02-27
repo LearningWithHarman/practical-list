@@ -1,0 +1,135 @@
+.first {
+    background-color: rgb(51, 51, 200);
+    color: white;
+    padding: 4px 80px;
+    text-transform: uppercase;
+
+}
+
+.two {
+    color: green;
+    border: 4px solid green;
+    padding: 7px 12px;
+
+}
+
+.three {
+    color: white;
+    background-color: rgba(128, 128, 128, 0.896);
+    padding: 11px 62px;
+
+}
+
+.svg {
+    width: 19px;
+
+}
+
+.four {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    border: 2.5px solid rgba(128, 128, 128, 0.88);
+    padding: 3px 18px;
+    color: rgba(128, 128, 128, 0.88);
+    text-align: center;
+}
+
+.five {
+   
+    padding:9px 32px;
+
+}
+.btn-gradient-1 {
+    border-width: 4px;
+    border-style: solid;
+    border-image: linear-gradient(to right, darkblue, darkorchid) 1;
+    padding:12px 64px;
+    background-color:white;
+   color:rgb(53, 53, 197);
+    font-size: 19px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.six{
+    background-color: black;
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-weight: bold;
+    padding:12px 12px;
+    border-radius: 7px;
+}
+.seven{
+    background-color: black;
+    width: 150px;
+    text-align: center;
+    padding:27px 20px;
+    border-radius: 2px;
+}
+.seven span{
+    color:white;
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+    border: 1px solid white;
+    padding:13px 17px;
+}
+
+.eight{
+    background-color: rgba(128, 128, 128, 0.169);
+    width: 250px;
+    text-align: center;
+    padding: 38px 20px;
+}
+.eight span{
+    background-color: aquamarine;
+    padding:24px 72px;
+    border-radius: 34px;
+}
+.nine{
+    padding:12px 22px;
+    background-color: rgb(45, 45, 199);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+    border: none;
+    border-radius: 6px;
+}
+.ten img{
+width: 23px;
+
+/* text-align:center; */
+}
+.ten{
+  padding:5px 32px;  
+    border: 1px solid black;
+}
+.ten p{
+    width:60px;
+    
+}
+.eleven{
+    background-color: rgba(26, 55, 217, 0.914);
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding:13px 53px;
+    border-radius: 6px;
+}
+.twelve{
+    text-transform: uppercase;
+    background-color: rgb(9, 209, 142);
+    padding:17px 12px;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.parent1{
+    background-color: rgba(137, 43, 226, 0.429);
+    width:250px;
+    text-align: center;
+    padding: 17px 5px;
+}
+.parent1 span{
+    background-color: aquamarine;
+    padding: 12px 80px;
+    width:250px;
+    border-radius: 8px;
+}
